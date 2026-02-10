@@ -15,7 +15,7 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 	GameScene* gameScene = new GameScene();
 
 	gameScene->Initialize();
-
+	//adasdwadwasdwadwa
 
 	//メインループ
 	while (true) {
